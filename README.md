@@ -1,4 +1,4 @@
-# Projeto Conta Banco
+# Projeto ContaBanco
 
 Este projeto implementa um programa simples em Java chamado ContaTerminal para receber dados via terminal e exibir informações sobre uma conta bancária.
 
