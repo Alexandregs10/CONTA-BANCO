@@ -22,7 +22,7 @@ Para executar o programa, abra o arquivo ContaTerminal.java no seu IDE preferido
 Após inserir todas as informações solicitadas, o programa exibirá a seguinte mensagem:
 
 Programa: "Por favor, digite o número da Agência !"
-Usuário: 1021 (depois ENTER para o próximo campo)
+Usuário: 6021 (depois ENTER para o próximo campo)
 // ... (continua solicitando e coletando outras informações)
 
 Os campos em [ ] serão substituídos pelas informações inseridas pelos usuários.
